@@ -125,8 +125,8 @@ namespace Content.Client.Stylesheets
 
         public static readonly Color PanelDark = Color.FromHex("#1E1E22");
 
-        public static readonly Color NanoGold = Color.FromHex("#A88B5E");
-        private static CrtPalette _crtPalette = CrtPalette.Green;
+        public static readonly Color NanoGold = Color.FromHex("#E8E8E8");
+        private static CrtPalette _crtPalette = CrtPalette.Monochrome;
         private static bool _crtUiEnabled = true;
         private static readonly Color DefaultCrtBackground = Color.FromHex("#07090B");
         private static readonly Color DefaultCrtPanelBackground = Color.FromHex("#25252A");
@@ -232,6 +232,33 @@ namespace Content.Client.Stylesheets
 
         private sealed class CrtPalette
         {
+            // CM14 VoidFall: monochrome black-and-white CRT theme.
+            // Order:
+            // background, panel, panelAlt, inset, header,
+            // button, hover, pressed, disabled,
+            // slider, progress,
+            // item, selectedItem, disabledItem,
+            // accent, accentDim, accentSoft, accentDisabled.
+            public static readonly CrtPalette Monochrome = new(
+                "#050505",
+                "#0D0D0D",
+                "#161616",
+                "#080808",
+                "#1F1F1F",
+                "#151515",
+                "#2B2B2B",
+                "#3A3A3A",
+                "#101010",
+                "#4A4A4A",
+                "#D0D0D0",
+                "#101010",
+                "#2A2A2A",
+                "#080808",
+                "#F2F2F2",
+                "#9A9A9A",
+                "#FFFFFF",
+                "#555555");
+
             public static readonly CrtPalette Green = new(
                 "#000906",
                 "#02130B",
@@ -480,17 +507,10 @@ namespace Content.Client.Stylesheets
 
         public static void SetCrtPalette(string palette)
         {
-            _crtPalette = palette switch
-            {
-                CCVars.CrtUiColorGreen => CrtPalette.Green,
-                CCVars.CrtUiColorBlue => CrtPalette.Blue,
-                CCVars.CrtUiColorOrange => CrtPalette.Orange,
-                CCVars.CrtUiColorRed => CrtPalette.Red,
-                CCVars.CrtUiColorPurple => CrtPalette.Purple,
-                _ => Color.TryFromHex(palette) is { } color
-                    ? CrtPalette.FromAccent(color)
-                    : CrtPalette.Green,
-            };
+            // CM14 VoidFall uses one fixed monochrome palette.
+            // The parameter is intentionally ignored so saved client settings
+            // cannot switch the interface back to another color.
+            _crtPalette = CrtPalette.Monochrome;
         }
 
         public static void SetCrtUiEnabled(bool enabled)
