@@ -41,7 +41,7 @@ public sealed partial class TitleWindowManager
 
         if (_cfg.GetCVar(CCVars.GameHostnameInTitlebar))
             // If you really dislike the dash I guess change it here
-            _clyde.SetWindowTitle(hostname + " - " + defaultWindowTitle);
+            _clyde.SetWindowTitle(defaultWindowTitle);
         else
             _clyde.SetWindowTitle(defaultWindowTitle);
     }
