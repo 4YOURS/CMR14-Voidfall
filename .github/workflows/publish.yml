@@ -18,6 +18,8 @@ env:
   DOTNET_VERSION: 10.0.x
   CONFIGURATION: Release
   AUDIO_REPO_TOKEN: ${{ secrets.AUDIO_REPO_TOKEN }}
+  PUBLISH_FORK_ID: ${{ vars.PUBLISH_FORK_ID }}
+  ROBUST_CDN_URL: ${{ vars.ROBUST_CDN_URL }}
 
 jobs:
   changelog:
