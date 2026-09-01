@@ -1,7 +1,7 @@
 
 CMU is a multiplayer sandbox game set in the Alien universe. It is a fork of RMC14, itself based on CM13, and incorporates assets from a variety of sources (copyright information is included in each metadata file).
 
-## Links
+## Ссылки
 
 
 
