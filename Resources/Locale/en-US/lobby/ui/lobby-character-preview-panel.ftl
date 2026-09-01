@@ -1,7 +1,7 @@
-lobby-character-preview-panel-header = Character
-lobby-character-preview-panel-character-setup-button = Customize
-lobby-character-preview-panel-unloaded-preferences-label = Your character preferences have not yet loaded, please stand by.
-lobby-character-preview-prev-char-tooltip = Previous character
-lobby-character-preview-next-char-tooltip = Next character
-lobby-character-preview-ignore-allegiance = Ignore Allegiance
-lobby-character-preview-ignore-allegiance-tooltip = When enabled, spawns your currently selected character regardless of allegiance matching.
+lobby-character-preview-panel-header = Персонаж
+lobby-character-preview-panel-character-setup-button = Кастомизировать
+lobby-character-preview-panel-unloaded-preferences-label = Настройки вашего персонажа еще не загружены, пожалуйста, подождите.
+lobby-character-preview-prev-char-tooltip = Предыдущий персонаж
+lobby-character-preview-next-char-tooltip = Следующий персонаж
+lobby-character-preview-ignore-allegiance = Игнорировать приоритет ролей
+lobby-character-preview-ignore-allegiance-tooltip = Когда этот параметр включен, появляется выбранный вами персонаж, независимо от соответствия его роли.

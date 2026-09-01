@@ -1,19 +1,19 @@
 ### Info Window
 
 ## General stuff
-ui-info-title = Information
-ui-info-tab-rules = Server Rules
-ui-info-tab-tutorial = Tutorial
+ui-info-title = Информация
+ui-info-tab-rules = Правила сервера CM14:VF
+ui-info-tab-tutorial = Руководство
 
 ## Tutorial tab
-ui-info-text-controls = You can review and rebind SS14s controls in the
+ui-info-text-controls = Вы можете просмотреть и повторно привязать элементы управления SS14s в
 
 ui-info-header-intro = Introduction
-ui-info-header-controls = Controls
-ui-info-header-gameplay = Gameplay
+ui-info-header-controls = Управление
+ui-info-header-gameplay = Игровой процесс
 ui-info-header-sandbox = Sandbox Spawner
-ui-info-subheader-entityoptions = Entity spawn panel options:
-ui-info-subheader-gridoptions = Grid aligned options:
-ui-info-header-feedback = Feedback
+ui-info-subheader-entityoptions = Параметры панели создания объектов:
+ui-info-subheader-gridoptions = Параметры выравнивания по сетке:
+ui-info-header-feedback = Обратная связь
 
-ui-info-button-controls = Options Menu
+ui-info-button-controls = Меню опций

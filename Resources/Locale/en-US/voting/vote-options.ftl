@@ -1,1 +1,1 @@
-vote-options-server-initiator-text = The server
+vote-options-server-initiator-text = CM14:VoidFall

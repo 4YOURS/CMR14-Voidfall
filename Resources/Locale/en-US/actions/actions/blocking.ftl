@@ -1,9 +1,8 @@
-﻿action-popup-blocking-user = You raise your {$shield}!
-action-popup-blocking-disabling-user = You lower your {$shield}!
+action-popup-blocking-user = Вы поднимаете свой {$shield}!
+action-popup-blocking-disabling-user = Вы опускаете свой {$shield}!
 
-action-popup-blocking-other = {CAPITALIZE(THE($blockerName))} raises {POSS-ADJ($blockerName)} {$shield}!
-action-popup-blocking-disabling-other = {CAPITALIZE(THE($blockerName))} lowers {POSS-ADJ($blockerName)} {$shield}!
+action-popup-blocking-other = {CAPITALIZE(THE($blockerName))} поднимает {$shield}!
+action-popup-blocking-disabling-other = {CAPITALIZE(THE($blockerName))} опускает {$shield}!
 
-action-popup-blocking-user-cant-block = You tried to raise your shield, but it was no use.
-action-popup-blocking-user-too-close = There's no room here to block. Try moving a bit!
-
+action-popup-blocking-user-cant-block = Вы попытались поднять щит, но это не помогло.
+action-popup-blocking-user-too-close = Здесь недостаточно места для защиты. Попробуйте немного отойти!

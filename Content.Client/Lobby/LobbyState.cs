@@ -327,15 +327,9 @@ namespace Content.Client.Lobby
 
         private void UpdateLobbyBackground()
         {
-            if (_gameTicker.LobbyBackground != null)
-            {
-                Lobby!.Background.Texture = _resourceCache.GetResource<TextureResource>(_gameTicker.LobbyBackground );
-            }
-            else
-            {
-                Lobby!.Background.Texture = null;
-            }
-
+            Lobby!.Background.Texture =
+                _resourceCache.GetResource<TextureResource>(
+                    "/Textures/_Voidfall/Lobby/voidfall_lobby.png");
         }
 
         private void SetReady(bool newReady)

@@ -1,9 +1,9 @@
-﻿# Rules
+# Rules
 
-ui-rules-header = RMC14 Official Server Rules
-ui-rules-header-rp = RMC14 Roleplay Official Server Rules
-ui-rules-accept = I have read and agree to follow the rules
-ui-rules-wait = The accept button will be enabled after {$time} seconds.
+ui-rules-header = Правила сервера CM14: VoidFall
+ui-rules-header-rp = Правила ролевой игры CM14: VoidFall
+ui-rules-accept = Я прочитал правила и обязуюсь их соблюдать
+ui-rules-wait = Кнопка подтверждения станет доступна через {$time} секунд.
 
-ui-rules-button-home = Home
-ui-rules-button-back = Back
+ui-rules-button-home = Главная
+ui-rules-button-back = Назад

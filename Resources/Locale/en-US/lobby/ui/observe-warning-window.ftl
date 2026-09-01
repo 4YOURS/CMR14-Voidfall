@@ -1,8 +1,8 @@
-observe-nevermind = Nevermind
-observe-confirm = Observe
-observe-warning-1 = Are you sure you want to observe?
-observe-warning-2 = When you observe, you will not be able to join as marine.
-  It might also take some time to become a xenonid or responder!
-observe-warning-window-title = Warning
-observe-as-admin = Admin Observe
-observe-as-player = Player Observe
+observe-nevermind = Отмена
+observe-confirm = Наблюдать
+observe-warning-1 = Вы уверены, что хотите стать наблюдателем?
+observe-warning-2 = После перехода в режим наблюдателя вы не сможете присоединиться к раунду за морпеха.
+    Возможность стать ксено или бойцом быстрого реагирования также может появиться не сразу.
+observe-warning-window-title = Предупреждение
+observe-as-admin = Наблюдать как администратор
+observe-as-player = Наблюдать как игрок

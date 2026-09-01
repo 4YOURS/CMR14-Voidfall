@@ -1,19 +1,97 @@
-﻿<Document>
-  # Core Rules
-  These rules apply at all times, including between rounds.
+<Document>
+  # Основные правила Эти правила действуют всегда, включая время между раундами.
 
-  - [textlink="1. Admins have final say" link="RuleC1"]
-  - [textlink="2. Don't be a dick" link="RuleC2"]
-  - [textlink="3. No Hate Speech or Discriminatory Language" link="RuleC3"]
-  - [textlink="4. No sexual content/themes, including erotic roleplay (ERP) and no shock content" link="RuleC4"]
-  - [textlink="5. Do not use out of game methods to communicate with other players" link="RuleC5"]
-  - [textlink="6. Do not attempt to evade bans" link="RuleC6"]
-  - [textlink="7. Only use English" link="RuleC7"]
-  - [textlink="8. Do not exploit the game, use cheats, or macros" link="RuleC8"]
-  - [textlink="9. Do not use multiple accounts, or alt accounts, and do not share accounts" link="RuleC9"]
-  - [textlink="10. Do not abuse or ignore admin messages" link="RuleC10"]
-  - [textlink="11. Do not threaten to ahelp other players or argue with them about rules" link="RuleC11"]
-  - [textlink="12. Players must be and act at least 16 years old" link="RuleC12"]
-  - [textlink="13. Use realistic character names, and do not use names of famous people" link="RuleC13"]
-  - [textlink="14. Do not use LOOC or OOC to share current round information" link="RuleC14"]
+  [color=#FFB500][bold]I этап[/bold][/color] — предупреждение или краткое ограничение.
+  [color=#FF7800][bold]II этап[/bold][/color] — временная блокировка.
+  [color=#FF3030][bold]III этап[/bold][/color] — длительная или бессрочная блокировка.
+
+  [color=#FFB500]Администрация может пропустить этапы при тяжёлом, намеренном или повторном нарушении.[/color]
+
+  1. Администрация имеет последнее слово
+  [textlink="Открыть правило" link="RuleC1"]
+  [color=#FFB500][bold]I:[/bold] предупреждение[/color] • [color=#FF7800][bold]II:[/bold] 12 ч.–3 дня[/color] • [color=#FF3030][bold]III:[/bold] 7 дней–перманент[/color]
+
+  Выполняйте указания администрации во время раунда. Обжаловать решение можно после окончания ситуации.
+
+  2. Не ведите себя токсично
+  [textlink="Открыть правило" link="RuleC2"]
+  [color=#FFB500][bold]I:[/bold] предупреждение[/color] • [color=#FF7800][bold]II:[/bold] 12 ч.–3 дня[/color] • [color=#FF3030][bold]III:[/bold] 7–30 дней или перманент[/color]
+
+  Запрещены травля, провокации, преследование, оскорбления и намеренное создание конфликтов.
+
+  3. Запрещена дискриминация
+  [textlink="Открыть правило" link="RuleC3"]
+  [color=#FFB500][bold]I:[/bold] 3–7 дней[/color] • [color=#FF7800][bold]II:[/bold] 14–30 дней[/color] • [color=#FF3030][bold]III:[/bold] бессрочно[/color]
+
+  Тяжёлые дискриминационные высказывания могут привести сразу к бессрочной блокировке.
+
+  4. Запрещены сексуальные темы, ERP и шок-контент
+  [textlink="Открыть правило" link="RuleC4"]
+  [color=#FFB500][bold]I:[/bold] предупреждение–3 дня[/color] • [color=#FF7800][bold]II:[/bold] 7–14 дней[/color] • [color=#FF3030][bold]III:[/bold] бессрочно[/color]
+
+  ERP, сексуальное преследование и тяжёлый сексуальный контент наказываются сразу бессрочной блокировкой.
+
+  5. Запрещена сторонняя связь во время раунда
+  [textlink="Открыть правило" link="RuleC5"]
+  [color=#FFB500][bold]I:[/bold] предупреждение[/color] • [color=#FF7800][bold]II:[/bold] 7–14 дней[/color] • [color=#FF3030][bold]III:[/bold] бессрочно[/color]
+
+  Нельзя передавать игровую информацию через Discord, трансляции, голосовые чаты и другие сторонние средства.
+
+  6. Запрещён обход блокировок
+  [textlink="Открыть правило" link="RuleC6"]
+  [color=#FFB500][bold]I:[/bold] бессрочный бан связанных аккаунтов[/color] • [color=#FF7800][bold]II:[/bold] запрет апелляции до 6 месяцев[/color] • [color=#FF3030][bold]III:[/bold] перманент[/color]
+
+  Вход с другого аккаунта во время действующей блокировки считается её обходом.
+
+  7. Используйте только русский язык
+  [textlink="Открыть правило" link="RuleC7"]
+  [color=#FFB500][bold]I:[/bold] предупреждение[/color] • [color=#FF7800][bold]II:[/bold] 12 ч.–3 дня[/color] • [color=#FF3030][bold]III:[/bold] 7 дней[/color]
+
+  Полноценное общение на других языках запрещено.
+
+  8. Запрещены эксплойты, читы и макросы
+  [textlink="Открыть правило" link="RuleC8"]
+  [color=#FFB500][bold]I:[/bold] предупреждение–3 дня[/color] • [color=#FF7800][bold]II:[/bold] 7–30 дней[/color] • [color=#FF3030][bold]III:[/bold] бессрочно[/color]
+
+  Читы, взлом клиента и серьёзные эксплойты наказываются сразу бессрочной блокировкой.
+
+  9. Запрещены дополнительные и общие аккаунты
+  [textlink="Открыть правило" link="RuleC9"]
+  [color=#FFB500][bold]I:[/bold] 3–7 дней[/color] • [color=#FF7800][bold]II:[/bold] 30 дней[/color] • [color=#FF3030][bold]III:[/bold] бессрочно для всех аккаунтов[/color]
+
+  Нельзя использовать несколько аккаунтов или передавать свой аккаунт другим людям.
+
+  10. Не игнорируйте администрацию
+  [textlink="Открыть правило" link="RuleC10"]
+  [color=#FFB500][bold]I:[/bold] предупреждение[/color] • [color=#FF7800][bold]II:[/bold] 3–7 дней[/color] • [color=#FF3030][bold]III:[/bold] 14 дней–бессрочно[/color]
+
+  Игнорирование AHelp, выход во время разбирательства или намеренное отсутствие ответа запрещены.
+
+  11. Не угрожайте жалобами администрации
+  [textlink="Открыть правило" link="RuleC11"]
+  [color=#FFB500][bold]I:[/bold] предупреждение[/color] • [color=#FF7800][bold]II:[/bold] 12 ч.–3 дня[/color] • [color=#FF3030][bold]III:[/bold] 7–14 дней[/color]
+
+  Используйте AHelp для обращения к администрации, а не как угрозу или способ выиграть спор.
+
+  12. Игрокам должно быть не менее 16 лет
+  [textlink="Открыть правило" link="RuleC12"]
+  [color=#FFB500][bold]I:[/bold] предупреждение[/color] • [color=#FF7800][bold]II:[/bold] 3–7 дней[/color] • [color=#FF3030][bold]III:[/bold] блокировка до достижения 16 лет[/color]
+
+  Игроки должны соответствовать минимальному возрасту и вести себя достаточно зрело.
+
+  13. Используйте реалистичные имена
+  [textlink="Открыть правило" link="RuleC13"]
+  [color=#FFB500][bold]I:[/bold] смена имени и предупреждение[/color] • [color=#FF7800][bold]II:[/bold] 12 ч.–3 дня[/color] • [color=#FF3030][bold]III:[/bold] 7 дней[/color]
+
+  Запрещены имена знаменитостей, мемы, никнеймы, оскорбления и имена известных персонажей.
+
+  14. Не передавайте информацию раунда через LOOC или OOC
+  [textlink="Открыть правило" link="RuleC14"]
+  [color=#FFB500][bold]I:[/bold] предупреждение[/color] • [color=#FF7800][bold]II:[/bold] 12 ч.–3 дня[/color] • [color=#FF3030][bold]III:[/bold] 7–14 дней[/color]
+
+  Запрещено раскрывать роли, позиции игроков, события, планы сторон и другую актуальную информацию раунда.
+
+  Мгновенная бессрочная блокировка
+
+  Возможна за читы, обход блокировки, ERP, тяжёлую дискриминацию, организованное метаобщение, угрозы, доксинг или атаки на инфраструктуру проекта.
 </Document>

@@ -114,15 +114,15 @@ namespace Content.Server.GameTicking
 
             var govforShip = _auRoundSystem.GetSelectedGovforShip();
             var opforShip = _auRoundSystem.GetSelectedOpforShip();
-            var govforShipDisplay = !string.IsNullOrWhiteSpace(govforShip) ? govforShip : "None";
-            var opforShipDisplay = !string.IsNullOrWhiteSpace(opforShip) ? opforShip : "None";
+            var govforShipDisplay = !string.IsNullOrWhiteSpace(govforShip) ? govforShip : "Не выбрано";
+            var opforShipDisplay = !string.IsNullOrWhiteSpace(opforShip) ? opforShip : "Не выбрано";
 
             var gmTitle = LocalizeOrRaw(preset.ModeTitle);
             var desc = LocalizeOrRaw(preset.Description);
             var govforPlatoon = _platoonSpawnRuleSystem.SelectedGovforPlatoon?.Name;
             var opforPlatoon = _platoonSpawnRuleSystem.SelectedOpforPlatoon?.Name;
-            var govforPlatoonDisplay = !string.IsNullOrWhiteSpace(govforPlatoon) ? govforPlatoon : "None";
-            var opforPlatoonDisplay = !string.IsNullOrWhiteSpace(opforPlatoon) ? opforPlatoon : "None";
+            var govforPlatoonDisplay = !string.IsNullOrWhiteSpace(govforPlatoon) ? govforPlatoon : "Не выбрано";
+            var opforPlatoonDisplay = !string.IsNullOrWhiteSpace(opforPlatoon) ? opforPlatoon : "Не выбрано";
             return Loc.GetString(
                 RunLevel == GameRunLevel.PreRoundLobby
                     ? "game-ticker-get-info-preround-text"

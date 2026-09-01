@@ -1,47 +1,58 @@
-﻿<Document>
-#GENERAL RULES 
+<Document>
+  # ОБЩИЕ ПРАВИЛА
 
-  These rules apply at all times, both in character and out of character, and are enforced universally. 
+  Эти правила действуют всегда — как в рамках ролевой игры, так и вне её — и распространяются на всех игроков.
 
-  
+  [color=#ffbf00][bold]I этап[/bold][/color] — первое или незначительное нарушение.
+  [color=#ff7a00][bold]II этап[/bold][/color] — повторное или намеренное нарушение.
+  [color=#ff0000][bold]III этап[/bold][/color] — тяжёлое или систематическое нарушение.
 
-  ##Language 
+  [color=#ff0000][bold]Администрация может пропустить предыдущие этапы в зависимости от тяжести нарушения.[/bold][/color]
 
-  - Using non-standard unicode is forbidden, this extends to the use of emojis, symbols and all other forms such as text emojis like “:), :(, :D, xD” regardless if done through emotes, through announcements or as a label on an object. 
+  ## 1. Язык сервера
 
-  - Spamming chat with non-english characters, symbols or other gibberish is forbidden. 
+  [color=#ffbf00][bold]I: Предупреждение[/bold][/color] • [color=#ff7a00][bold]II: 12 часов–3 дня[/bold][/color] • [color=#ff0000][bold]III: 7 дней[/bold][/color]
 
-  - CMU is an English speaking server. Speaking full sentences in anything but english is not allowed. Single words or phrases in other languages are allowed so long as it compliments your RP (your character referring to their "padre", "amigo", etc is fine).  
+  ✯ Использование нестандартных символов Unicode запрещено. Это распространяется на эмодзи, специальные символы и текстовые смайлики вроде «:)», «:(», «:D» и «xD», включая эмоции, объявления и названия предметов.
 
-  
+  ✯ Запрещено засорять чат символами других алфавитов, бессмысленным текстом или набором знаков.
 
-  ##Do not Metagame 
+  ✯ CM14:VoidFall является сервером с русским языком. Полноценные предложения на других языках запрещены.
 
-  - Don't use information gained from outside your character's knowledge to gain an advantage. 
+  ✯ Отдельные иностранные слова и выражения разрешены, если они дополняют ролевой отыгрыш персонажа, например «padre» или «amigo».
 
-  - Using information you gain from outside your own character's view and hearing to your advantage is strictly forbidden. You remember all events up until you fall unconscious. If you take a ghost role or respawn, unless otherwise stated, you do not remember anything from your past life. 
+  ## 2. Запрещён метагейминг
 
-  - Do not post images/videos of or discuss on-going rounds until after the round has concluded. Exceptions may be given out please contact the Head Moderator if you wish for an exception. 
+  [color=#ffbf00][bold]I: Предупреждение–3 дня[/bold][/color] • [color=#ff7a00][bold]II: 7–14 дней[/bold][/color] • [color=#ff0000][bold]III: 30 дней–бессрочно[/bold][/color]
 
-  - Players may be in a voice chat with each other while playing the game, but must not share information that could be used to metagame. 
+  ✯ Не используйте информацию, которой ваш персонаж не мог обладать, для получения преимущества.
 
-  - Retrieving or completing objectives for a faction as a third party or unrelated party, without being informed of that faction’s objectives, is considered metagaming. 
+  ✯ Разрешено помнить только события, которые персонаж видел или слышал до потери сознания.
 
- - Using game mechanics like emotes or right click menu to locate players or entities in, for example, dark areas are considered metagaming. This, however, does not apply to Emotes that produce sounds like laughing. 
+  ✯ После возрождения или принятия роли призрака персонаж не помнит прошлую жизнь, если правила роли не указывают обратное.
 
-  
+  ✯ Не публикуйте и не обсуждайте изображения, видеозаписи и события текущего раунда до его окончания. Исключение может предоставить главный модератор.
 
-  ##Don't intentionally annoy/antagonize other players. 
+  ✯ Игрокам разрешено находиться в голосовом чате, но запрещено передавать информацию, способную предоставить игровое преимущество.
 
-  - You are playing a multiplayer game with other people who also want to enjoy the game. 
+  ✯ Выполнение задач другой фракции без получения соответствующей информации внутри игры считается метагеймингом.
 
-  - Do not intentionally make other players lives hell for your own amusement. 
+  ✯ Организованный метагейминг, передача критической информации или серьёзное влияние на раунд могут привести сразу к III этапу.
 
-  - Do not spam emotes/sounds for no reason (this includes screaming, reload spam, etc). 
+  ## 3. Не мешайте другим игрокам намеренно
 
-  - Intentionally making yourself a major problem/annoyance/disruption for other players in your faction at large is forbidden. 
+  [color=#ffbf00][bold]I: Предупреждение[/bold][/color] • [color=#ff7a00][bold]II: 12 часов–3 дня[/bold][/color] • [color=#ff0000][bold]III: 7–30 дней[/bold][/color]
 
-  - There is leeway for minor and moderate crimes that benefit your character, which has consequences for your character if caught. 
+  ✯ Вы играете с другими людьми, которые также хотят получать удовольствие от игры.
 
-  - Do not make other players feel uncomfortable, don’t make weird or out of pocket comments about players or their character(s), especially if they tell you to stop. 
+  ✯ Не превращайте игру других игроков в постоянную проблему ради собственного развлечения.
+
+  ✯ Запрещён беспричинный спам эмоциями и звуками, включая крики, постоянную перезарядку и подобные действия.
+
+  ✯ Запрещено намеренно становиться серьёзной помехой для игроков своей фракции.
+
+  ✯ Незначительные и умеренные преступления допустимы в рамках роли, если они имеют мотив и внутриигровые последствия для персонажа.
+
+  ✯ Продолжительное преследование, серьёзный саботаж своей фракции или намеренный срыв раунда могут привести сразу к III этапу.
+
 </Document>

@@ -1,47 +1,92 @@
-﻿<Document>
-  #INSURGENCY RULES
-    These rules apply to the Insurgency gamemode.
+<Document>
+  # ПРАВИЛА РЕЖИМА «МЯТЕЖ»
 
-  ##General Rules
-    No player may kill another player within the first 5 minutes of the round.
+  Эти правила действуют в игровом режиме «Мятеж».
 
-    Colonists and other non-affiliated roles must have a valid in-character reason to participate in hostilities.
+  [color=#ffbf00][bold]I этап[/bold][/color] — предупреждение или краткий бан роли.
+  [color=#ff7a00][bold]II этап[/bold][/color] — длительный бан роли или временная блокировка сервера.
+  [color=#ff0000][bold]III этап[/bold][/color] — бессрочный бан роли и, при необходимости, серверная блокировка.
 
-    ##Insurgent Rules
+  [color=#ff0000][bold]Администрация вправе пропустить этапы при тяжёлом, намеренном или массовом нарушении.[/bold][/color]
 
-    You are a radical devoted to your cause.
-    - Direct orders from the Cell Leader must be followed unless they directly contradict insurgent ideology or server rules. You must refuse orders to indiscriminately kill civilians.
+  ## 1. Общие правила
 
-    Insurgents may not kill or harm civilians unless they are clearly hostile toward the insurgency.
-    - Ambassadors, liaisons, administrators and other unarmed government/corporate personnel are considered civilians under this rule.
-    - Colony Law Enforcement, Corporate Security and armed government/corporate personnel are not considered civilians under this rule.
+  [color=#ffbf00][bold]I: Предупреждение[/bold][/color] • [color=#ff7a00][bold]II: 1–3 дня[/bold][/color] • [color=#ff0000][bold]III: 7–14 дней[/bold][/color]
 
-    Insurgents may NOT kill or harm Colony Law Enforcement, Corporate Security and/or armed government/corporate personnel until 10 minutes into the round.
+  ✯ Запрещено убивать других игроков в течение первых 10 минут раунда.
 
-    Insurgents may NOT attack groundside GOVFOR bases or attempt to board the GOVFOR ship until 30 minutes into the round. FOBs are not considered groundside bases.
+  ✯ Колонисты и другие неприсоединившиеся роли могут участвовать в боевых действиях только при наличии обоснованной внутриигровой причины.
 
-    ##GOVFOR Rules
+  ✯ Необоснованное убийство, присоединение к конфликту без причины или массовый RDM могут привести сразу ко II или III этапу.
 
-    GOVFOR may not enter the colony unless:
-    - They are explicitly alerted by the Colony Command
-    - 30 minutes have passed since round start.
-    - If GOVFOR spawn on a ship, they may deploy to their primary LZ and secure an FOB before the thirty minute mark, but must not leave their FOB.
+  ## 2. Правила CLF (КОФ)
 
-    GOVFOR may not shoot civilians without reasonable cause such as:
-    - Ignoring one clear warnings to leave while in sight.
-    - Wearing or possessing illegal firearms or equipment.
-    - Being reported to be carrying explosives.
-    - They are using lethal force or you have seen them use lethal force.
+  [color=#ffbf00][bold]I: Предупреждение или бан роли на 3 дня[/bold][/color] • [color=#ff7a00][bold]II: Бан роли на 7–30 дней[/bold][/color] • [color=#ff0000][bold]III: Бессрочный бан повстанческих ролей[/bold][/color]
 
-    GOVFOR may not raid an insurgent base unless:
-    - They are actively following an insurgent member to it.
-    - They have received credible intelligence about its location.
+  Вы — радикал, преданный своей идеологии.
 
-    ##Colony Command Rules
+  ✯ Выполняйте прямые приказы лидера ячейки, если они не противоречат идеологии КОФ или правилам сервера.
 
-    A valid in-character reason is required to request GOVFOR assistance such as:
-    - Insurgents openly carrying illegal weapons.
-    - Law Enforcement or multiple civilians being killed.
-    - Explicit IC death threats.
-    - An attempt on the life of a colony command member.
+  ✯ Вы обязаны отказаться от приказа без разбора убивать мирных жителей.
+
+  ✯ Запрещено причинять вред колонистам, если они не проявляют явную враждебность к повстанцам.
+
+  ✯ Послы, связные, администраторы и другие безоружные государственные или корпоративные сотрудники считаются колонистами.
+
+  ✯ Правоохранительные органы колонии, корпоративная охрана и вооружённые государственные или корпоративные сотрудники колонистами не считаются.
+
+  ✯ Запрещено атаковать правоохранителей, корпоративную охрану и вооружённых сотрудников в течение первых 15 минут раунда.
+
+  ✯ Запрещено атаковать наземные базы GOVFOR или пытаться проникнуть на корабль GOVFOR в течение первых 30 минут раунда. FOB наземной базой не считается.
+
+  ✯ Убийство гражданских без причины, ранняя атака базы или массовое нарушение временных ограничений может привести сразу ко II или III этапу.
+
+  ## 3. Правила GOVFOR
+
+  [color=#ffbf00][bold]I: Предупреждение или бан роли на 3 дня[/bold][/color] • [color=#ff7a00][bold]II: Бан роли на 7–30 дней[/bold][/color] • [color=#ff0000][bold]III: Бессрочный бан ролей GOVFOR[/bold][/color]
+
+  GOVFOR может войти в колонию только если:
+
+  ✯ Командование колонии прямо запросило помощь.
+
+  ✯ С начала раунда прошло 30 минут.
+
+  ✯ При появлении на корабле GOVFOR может высадиться на основной LZ (ЗП) и укрепить FOB до истечения 30 минут, но не может покидать территорию FOB.
+
+  GOVFOR не может открывать огонь по гражданским без обоснованной причины, например:
+
+  ✯ Гражданский проигнорировал одно ясное предупреждение покинуть территорию, оставаясь в поле зрения.
+
+  ✯ Гражданский носит или хранит незаконное оружие либо снаряжение.
+
+  ✯ Имеется достоверная информация о наличии у него взрывчатки.
+
+  ✯ Гражданский применяет смертельную силу либо был замечен за её применением.
+
+  GOVFOR может провести рейд на базу повстанцев только если:
+
+  ✯ Военнослужащие непосредственно проследовали за повстанцем до базы.
+
+  ✯ Получена достоверная информация о местонахождении базы.
+
+  ✯ Необоснованная стрельба по гражданским, преждевременный выход из FOB или рейд без разведданных может привести сразу ко II или III этапу.
+
+  ## 4. Правила командования колонии
+
+  [color=#ffbf00][bold]I: Предупреждение или бан роли на 3 дня[/bold][/color] • [color=#ff7a00][bold]II: Бан роли на 7–30 дней[/bold][/color] • [color=#ff0000][bold]III: Бессрочный бан командных ролей[/bold][/color]
+
+  Для запроса помощи GOVFOR необходима обоснованная внутриигровая причина, например:
+
+  ✯ CLF (КОФ) открыто носят оружие.
+
+  ✯ Убиты сотрудники правоохранительных органов или несколько колонистов.
+
+  ✯ Получены прямые угрозы убийством.
+
+  ✯ Совершено покушение на представителя командования колонии.
+
+  ✯ Запрещено вызывать GOVFOR без достаточных оснований или использовать их для решения личных конфликтов.
+
+  ✯ Заведомо ложный вызов, намеренная эскалация конфликта или злоупотребление полномочиями может привести сразу ко II или III этапу.
+
 </Document>

@@ -1,13 +1,13 @@
-guidebook-window-title = Guidebook
-guidebook-placeholder-text = Select an entry.
+guidebook-window-title = Справочник
+guidebook-placeholder-text = Выберите раздел.
 
 # Modified for RMC14
-guidebook-placeholder-text-2 = If you're new, head over to "New Player Guide"
+guidebook-placeholder-text-2 = Если вы новичок, откройте раздел «Руководство для новичков».
 
-guidebook-filter-placeholder-text = Filter items
+guidebook-filter-placeholder-text = Поиск по разделам
 
-guidebook-parser-error = Parser Error
-guidebook-error-message = Error Message
+guidebook-parser-error = Ошибка обработки
+guidebook-error-message = Сообщение об ошибке
 
-guidebook-monkey-unspin = Unspin Monkey
-guidebook-monkey-disco = Disco Monkey
+guidebook-monkey-unspin = Null
+guidebook-monkey-disco = Null

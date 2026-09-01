@@ -1,54 +1,54 @@
-game-ticker-restart-round = Restarting round...
-game-ticker-start-round = The round is starting now...
-game-ticker-start-round-cannot-start-game-mode-fallback = Failed to start {$failedGameMode} mode! Defaulting to {$fallbackMode}...
-game-ticker-start-round-cannot-start-game-mode-restart = Failed to start {$failedGameMode} mode! Restarting round...
-game-ticker-start-round-invalid-map = Selected map {$map} is inelligible for gamemode {$mode}. Gamemode may not function as intended...
-game-ticker-unknown-role = Unknown
-game-ticker-delay-start = Round start has been delayed for {$seconds} seconds.
-game-ticker-pause-start = Round start has been paused.
-game-ticker-pause-start-resumed = Round start countdown is now resumed.
-game-ticker-player-join-game-message = Welcome to CMU! If this is your first time playing, be sure to read the game rules, and don't be afraid to ask for help in LOOC (local OOC) or OOC (usually available only between rounds).
-game-ticker-get-info-text = Hi and welcome to [color=white]Colonial Marines Universe![/color]
-                            The current GOVFOR ship is: [color=#007EE7]{$govforShip}[/color]
-                            The current OPFOR ship is: [color=#FF2000]{$opforShip}[/color]
-                            The current GOVFOR platoon is: [color=#007EE7]{$govforPlatoon}[/color]
-                            The current OPFOR platoon is: [color=#FF2000]{$opforPlatoon}[/color]
-                            The current planet is: [color=white]{$planetName}[/color]
-                            The current gamemode is: [color=white]{$gmTitle}[/color]
-game-ticker-get-info-preround-text = Hi and welcome to [color=white]Colonial Marines Universe![/color]
-                            The current player count is: [color=white]{$playerCount}[/color] ([color=white]{$readyCount}[/color] {$readyCount ->
-                                [one] is
-                                *[other] are
+game-ticker-restart-round = Перезапуск раунда...
+game-ticker-start-round = Раунд начинается прямо сейчас...
+game-ticker-start-round-cannot-start-game-mode-fallback = Не удалось запустить режим {$failedGameMode}! Будет использован стандартный режим {$fallbackMode}...
+game-ticker-start-round-cannot-start-game-mode-restart = Не удалось запустить режим {$failedGameMode}! Раунд будет перезапущен...
+game-ticker-start-round-invalid-map = Выбранная карта {$map} не подходит для игрового режима {$mode}. Игровой режим может работать некорректно...
+game-ticker-unknown-role = Неизвестно
+game-ticker-delay-start = Начало раунда отложено на {$seconds} секунд.
+game-ticker-pause-start = Запуск раунда приостановлен.
+game-ticker-pause-start-resumed = Обратный отсчёт до начала раунда возобновлён.
+game-ticker-player-join-game-message = Добро пожаловать на CM14:VoidFall! Если вы играете впервые, обязательно ознакомьтесь с правилами игры и не бойтесь просить помощи в LOOC (локальный OOC) или OOC (обычно доступен только между раундами).
+game-ticker-get-info-text = Приветствуем вас на [color=white]CM14:VoidFall![/color]
+                            Текущий корабль GOVFOR: [color=#007EE7]{$govforShip}[/color]
+                            Текущий корабль OPFOR: [color=#FF2000]{$opforShip}[/color]
+                            Текущий взвод GOVFOR: [color=#007EE7]{$govforPlatoon}[/color]
+                            Текущий взвод OPFOR: [color=#FF2000]{$opforPlatoon}[/color]
+                            Текущая планета: [color=white]{$planetName}[/color]
+                            Текущий игровой режим: [color=white]{$gmTitle}[/color]
+game-ticker-get-info-preround-text = Приветствуем вас в [color=white]CM14:VoidFall![/color]
+                            Текущее количество игроков: [color=white]{$playerCount}[/color] ([color=white]{$readyCount}[/color] {$readyCount ->
+                                [one] Готов
+                                *[other] Готовы
                             } ready)
-                            The current GOVFOR ship is: [color=#007EE7]{$govforShip}[/color]
-                            The current OPFOR ship is: [color=#FF2000]{$opforShip}[/color]
-                            The current GOVFOR platoon is: [color=#007EE7]{$govforPlatoon}[/color]
-                            The current OPFOR platoon is: [color=#FF2000]{$opforPlatoon}[/color]
-                            The current planet is: [color=white]{$planetName}[/color]
-                            The current gamemode is: [color=white]{$gmTitle}[/color]
+                            Текущий корабль GOVFOR: [color=#007EE7]{$govforShip}[/color]
+                            Текущий корабль OPFOR: [color=#FF2000]{$opforShip}[/color]
+                            Текущий взвод GOVFOR: [color=#007EE7]{$govforPlatoon}[/color]
+                            Текущий взвод OPFOR: [color=#FF2000]{$opforPlatoon}[/color]
+                            Текущая планета: [color=white]{$planetName}[/color]
+                            Текущий игровой режим: [color=white]{$gmTitle}[/color]
 
-game-ticker-no-map-selected = [color=#FFB500]Map not yet selected![/color]
-game-ticker-no-map-selected-plain = Map not yet selected!
-game-ticker-player-no-jobs-available-when-joining = When attempting to join to the game, no jobs were available.
+game-ticker-no-map-selected = [color=#FFB500]Карта ещё не выбрана![/color]
+game-ticker-no-map-selected-plain = Карта ещё не выбрана!
+game-ticker-player-no-jobs-available-when-joining = При попытке присоединиться к игре не оказалось доступных должностей.
 
 # Displayed in chat to admins when a player joins
-player-join-message = Player {$name} joined.
-player-first-join-message = Player {$name} joined for the first time.
+player-join-message = Игрок {$name} присоединился.
+player-first-join-message = Игрок {$name} присоединился впервые.
 
 # Displayed in chat to admins when a player leaves
-player-leave-message = Player {$name} left.
+player-leave-message = Игрок {$name} вышел.
 
-latejoin-arrival-announcement = {$character} ({$job}) has awakened from hypersleep!
-latejoin-arrival-announcement-special = {$job} {$character} on deck!
-latejoin-arrival-sender = Ship
-latejoin-arrivals-direction = A shuttle transferring you to your station will arrive shortly.
-latejoin-arrivals-direction-time = A shuttle transferring you to your station will arrive in {$time}.
-latejoin-arrivals-dumped-from-shuttle = A mysterious force prevents you from leaving with the arrivals shuttle.
-latejoin-arrivals-teleport-to-spawn = A mysterious force teleports you off the arrivals shuttle. Have a safe shift!
+latejoin-arrival-announcement = {$character} ({$job}) пробудился от гиперсна!
+latejoin-arrival-announcement-special = {$job} {$character} прибыл на борт!
+latejoin-arrival-sender = Корабль
+latejoin-arrivals-direction = Шаттл, который доставит вас на станцию, скоро прибудет.
+latejoin-arrivals-direction-time = Шаттл, который доставит вас на станцию, прибудет через {$time}.
+latejoin-arrivals-dumped-from-shuttle = Таинственная сила не позволяет вам улететь на шаттле прибытия.
+latejoin-arrivals-teleport-to-spawn = Таинственная сила телепортирует вас с шаттла прибытия. Удачной смены!
 
-preset-not-enough-ready-players = Can't start {$presetName}. Requires {$minimumPlayers} players but we have {$readyPlayersCount}.
-preset-no-one-ready = Can't start {$presetName}. No players are ready.
+preset-not-enough-ready-players = Невозможно запустить {$presetName}. Требуется игроков: {$minimumPlayers}, готово: {$readyPlayersCount}.
+preset-no-one-ready = Невозможно запустить {$presetName}. Ни один игрок не готов.
 
-game-run-level-PreRoundLobby = Pre-round lobby
-game-run-level-InRound = In round
-game-run-level-PostRound = Post round
+game-run-level-PreRoundLobby = Предраундовое лобби
+game-run-level-InRound = Раунд идёт
+game-run-level-PostRound = После раунда

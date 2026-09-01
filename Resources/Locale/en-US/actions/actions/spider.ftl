@@ -1,5 +1,5 @@
-spider-web-action-nogrid = There is no floor under you!
-spider-web-action-success = You place webs around you.
-spider-web-action-fail = You can't place webs here! All cardinal directions already have webs!
+spider-web-action-nogrid = Под вами нет пола!
+spider-web-action-success = Вы создаёте паутину вокруг себя.
+spider-web-action-fail = Здесь нельзя разместить паутину! Во всех направлениях уже есть паутина!
 
-sericulture-failure-hunger = Your stomach is too empty to make any more webs!
+sericulture-failure-hunger = Вы слишком голодны, чтобы создавать ещё паутину!
