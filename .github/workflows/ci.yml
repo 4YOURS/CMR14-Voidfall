@@ -136,17 +136,17 @@ jobs:
           persist-credentials: true
           submodules: recursive
 
-      - uses: actions/download-artifact@v8.0.1
+      - uses: actions/download-artifact@v8.0.2
         with:
           name: build-content-tests
           path: bin/Content.Tests/
 
-      - uses: actions/download-artifact@v8.0.1
+      - uses: actions/download-artifact@v8.0.2
         with:
           name: build-content-client
           path: bin/Content.Client/
 
-      - uses: actions/download-artifact@v8.0.1
+      - uses: actions/download-artifact@v8.0.2
         with:
           name: build-content-server
           path: bin/Content.Server/
@@ -170,17 +170,17 @@ jobs:
           persist-credentials: true
           submodules: recursive
 
-      - uses: actions/download-artifact@v8.0.1
+      - uses: actions/download-artifact@v8.0.2
         with:
           name: build-yaml-linter
           path: bin/Content.YAMLLinter/
 
-      - uses: actions/download-artifact@v8.0.1
+      - uses: actions/download-artifact@v8.0.2
         with:
           name: build-content-client
           path: bin/Content.Client/
 
-      - uses: actions/download-artifact@v8.0.1
+      - uses: actions/download-artifact@v8.0.2
         with:
           name: build-content-server
           path: bin/Content.Server/
@@ -566,17 +566,17 @@ jobs:
           persist-credentials: true
           submodules: recursive
 
-      - uses: actions/download-artifact@v8.0.1
+      - uses: actions/download-artifact@v8.0.2
         with:
           name: build-integration-tests
           path: bin/Content.IntegrationTests/
 
-      - uses: actions/download-artifact@v8.0.1
+      - uses: actions/download-artifact@v8.0.2
         with:
           name: build-content-client
           path: bin/Content.Client/
 
-      - uses: actions/download-artifact@v8.0.1
+      - uses: actions/download-artifact@v8.0.2
         with:
           name: build-content-server
           path: bin/Content.Server/
